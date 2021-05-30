@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mike @Still-Learning-code
+- 👋 Hi, I’m Mike @Still-Learning-Code
 - 👀 I’m interested in Front end Development
 - 🌱 I’m currently learning W3 CSS,Java
 - 💞️ I’m looking to collaborate on projects to increase my practical experience
