@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mike @Still-Learning-Code
 - 👀 Learning Back & Front end Development
-- 🌱 I’m currently learning W3 CSS,Java
+- 🌱 I’m currently studying  W3 CSS,Java
 - 💞️ I’m looking to collaborate on projects to increase my practical experience
 - 📫 How to reach me https://Still-Learning-Code.github.io/pwr/
 
