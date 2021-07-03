@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mike @Still-Learning-Code
-- 👀 Learning Front end Development
-- I have completed studies in HTML5 + CSS
-- 🌱 I’m currently studying  W3 CSS
+- 👀 I am Learning Front end Development @ W3-Schools
+- I have completed studies in HTML5,CSS earning Certification as HTML Developer 
+- 🌱 I’m currently studying  W3-CSS,JavaScript
 - 💞️ I’m looking to collaborate on projects to increase my practical experience
 - 📫 How to reach me https://Still-Learning-Code.github.io/pwr/
 
