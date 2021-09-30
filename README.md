@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mike McKenna @Still-Learning-Code
+- 👋 Hi, I’m Mike McKenna @Still-Learning-code
 - 👀 I am Learning Front end Development @ W3-Schools
 - I have completed studies in HTML5,CSS earning Certification as HTML5 Developer 
 - 🌱 I’m currently studying JavaScript,W3CSS
