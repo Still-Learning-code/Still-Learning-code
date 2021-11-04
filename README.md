@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mike McKenna 
-- 👀 I am Learning Front end Development @ W3-Schools
+- 👀 I am Learning Front end Development @ MDN
 - I have completed studies in HTML5,CSS earning Certification as HTML5 Developer 
-- 🌱 I’m currently studying JavaScript,W3CSS
+- 🌱 I’m currently studying JavaScript thru MDN
 - 💞️ I’m looking to collaborate on projects to increase my practical experience
 - 📫 How to reach me https://Still-Learning-Code.github.io/pwr/
 
