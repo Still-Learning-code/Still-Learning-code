@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mike McKenna 
-- 👀 I am Learning Front end Development @ MDN and Odin Project
+- 👀 I am Learning Front end Development @ MDN
 - I have completed course in HTML5 earning Certification as HTML5 Developer 
-- 🌱 I am studying Linux Visual Studio thru Odin Project
+- 🌱 I am studying Java SCript @ MDN
 - 💞️ I’m looking to collaborate on projects to increase my practical experience
 - 📫 How to reach me https://Still-Learning-Code.github.io/pwr/
 
