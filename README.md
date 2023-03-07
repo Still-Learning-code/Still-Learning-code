@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mike McKenna 
-- 👀 I am Learning Front end Development @ MDN
-- I have completed course in HTML5 earning Certification as HTML5 Developer 
-- 🌱 I have completed Java Script course thru Learn JavaScript
+- 👀 Studying Front end Development @ MDN and Tutorial republic
+- Completed courses in HTML5,CSS3,JavaScript 
+- 🌱 I am studying Boot strap @ Tutorial republic
 - 💞️ I’m looking to collaborate on projects to increase my practical experience
 - 📫 How to reach me https://Still-Learning-Code.github.io/pwr/
 
