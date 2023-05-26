@@ -3,7 +3,7 @@
 - Completed courses in HTML5,CSS3,JavaScript 
 - 🌱 I am studying Boot strap @ Tutorial republic
 - 💞️ I’m looking to collaborate on projects to increase my practical experience
-- 📫 How to reach me https://Still-Learning-Code.github.io/pwr/
+- 📫 How to reach me https://Github.com/Still-Learning-Code
 
 <!---
 Still-Learning-code/Still-Learning-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
