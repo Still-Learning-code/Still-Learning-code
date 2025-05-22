@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mike McKenna 
 - 👀 I am a Front end Developer
 - Completed courses in HTML5,CSS3, W3CSS,JavaScript,Bootstrap 
-- 🌱 I have a Portfolio on Upwork. Where I look for projects
+- 🌱 I am currently learning Kotlin,Multi Platform , Android thru Google Developer program and Kotlin Community
 - 💞️ I’m looking to collaborate on projects to increase my practical experience
 - 📫 How to reach me https://Github.com/Still-Learning-Code
 
